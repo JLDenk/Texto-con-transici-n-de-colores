@@ -1,0 +1,19 @@
+h1{
+    box-sizing: border-box;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    align-items: center;
+    position: absolute;
+    font-size: 100px;
+    text-transform: uppercase;
+    background: linear-gradient(to left, #ffc400, rgb(197, 55, 55), #00ff22);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+*{
+    background: rgb(243, 241, 241);
+}
